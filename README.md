@@ -22,7 +22,7 @@ Kayak
     * on the Nete in Kasterlee
     
 Tango
- 
+
     -tango   (melancolic music)
     
     -tango walz
@@ -31,16 +31,20 @@ Tango
     
 You can always count on me when you are hungry
 
-teamspirit through organizing ping pong tournament
+adding teamspirit through organizing a ping pong tournament
 
 ###short funny story
 
-####
+####   TL,DR
 funny story in one line
  
 
-previous Joeri
-Joeri next student
+ previous student of Joeri, is Jens
+ https://github.com/JensDN/Mark-down/blob/master/README.md
+ 
+ next student of Joeri, is Malik
+ https://github.com/malikdahmany/challenge-markdown
+ 
 
 
 
